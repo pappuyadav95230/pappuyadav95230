@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi, I'm Pappu Kumar Yadav 👋
 
-<!--
-**pappuyadav95230/pappuyadav95230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | 2+ Years Experience  
+**Frontend • Backend • Cloud • AI Automation**
 
-Here are some ideas to get you started:
+🚀 Web Developer @ **Alphanumeric Ideas Pvt. Ltd.**  
+🏗️ Building **scalable SaaS products** and production-ready web applications  
+🤖 Implementing **AI automation** to improve development and operational speed by **~40%**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Professional Summary
+Full-Stack Developer with 2+ years of hands-on experience in designing, developing, and deploying modern web applications. Strong background in **frontend, backend, databases, cloud infrastructure**, and **AI integration**. Experienced in building scalable SaaS systems, authentication flows, analytics dashboards, and automation pipelines.
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+- Next.js, React
+- TypeScript, JavaScript
+- Tailwind CSS, 
+- Responsive UI & UX optimization
+
+### ⚙️ Backend
+- Node.js, Express.js
+- Python (Flask)
+- REST API development
+- Authentication & Authorization (JWT, Role-based access)
+
+### 🗄️ Databases
+- MongoDB
+- SQL (MySQL / PostgreSQL)
+- Google Cloud Spanner
+- Firebase (Realtime DB / Firestore)
+
+### ☁️ Cloud & DevOps
+- Google Cloud Platform (GCP)
+- Cloud Run (Deployment & Scaling)
+- Firebase Hosting & Auth
+- FileZilla
+- Environment & production configuration
+
+### 🤖 AI & Automation
+- Gemini AI API Integration
+- AI-driven content & workflow automation
+- Process optimization reducing manual effort by **~40%**
+
+---
+
+## 📚 Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- DBMS
+- Computer Networks
+
+### 🧠 Programming Languages
+- C
+- C++
+- Python
+- JavaScript
+
+---
+
+## 💼 Current Role
+**Web Developer — Alphanumeric Ideas Pvt. Ltd.**  
+📍 Mohali, Chandigarh  
+🕒 Sept 2023 – Present
+
+**Responsibilities:**
+- Developing and maintaining **frontend & backend** features
+- Building SEO-optimized and scalable SaaS modules
+- Deploying applications on **Google Cloud**
+- Integrating AI tools for automation and productivity
+- Improving performance, UX, and system reliability
+
+---
+
+## 🎯 Career Focus
+- Building **real-world SaaS products**
+
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: 610490papu@gmail.com
