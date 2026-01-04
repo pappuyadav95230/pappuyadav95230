@@ -56,7 +56,6 @@ Full-Stack Developer with 2+ years of hands-on experience in designing, developi
 - Computer Networks
 
 ### 🧠 Programming Languages
-- C
 - C++
 - Python
 - JavaScript
