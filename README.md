@@ -63,7 +63,7 @@ Full-Stack Developer with 2+ years of hands-on experience in designing, developi
 ---
 
 ## 💼 Current Role
-**Web Developer — Alphanumeric Ideas Pvt. Ltd.**  
+**Full-Stack Developer — Alphanumeric Ideas Pvt. Ltd.**  
 📍 Mohali, Chandigarh  
 🕒 Sept 2023 – Present
 
