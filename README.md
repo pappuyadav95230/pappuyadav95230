@@ -65,16 +65,11 @@ Skilled in **React, Next.js, FastAPI, and Google Cloud**, with hands-on experien
 
 ---
 
-### 📈 ArtOfBoost.ai — AI Marketing Platform
-- AI-powered SaaS platform for ad automation & analytics  
-- Handles **1000+ daily requests** with real-time insights  
-- Built with Next.js, FastAPI, Firebase  
-
----
-
-### 📍 LocationTrack — Real-Time GPS App
-- Live location tracking with real-time updates  
-- Built using React.js, Node.js, Firebase  
+### 🎬 AI Video Automation Platform
+- Built an AI-powered video automation system handling **1000+ daily requests**
+- Automated multi-channel ad content generation and delivery  
+- Integrated AI models to optimize workflows and improve content generation speed  
+- Backend powered by FastAPI with scalable architecture  
 
 ---
 
