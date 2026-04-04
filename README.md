@@ -1,88 +1,98 @@
 # Hi, I'm Pappu Kumar Yadav 👋
 
-## Full-Stack Developer | 2+ Years Experience  
-**Frontend • Backend • Cloud • AI Automation**
+## 🚀 Full-Stack Developer | 2+ Years Experience  
+**SaaS • AI Systems • Scalable Web Applications**
 
-🚀 Web Developer @ **Alphanumeric Ideas Pvt. Ltd.**  
-🏗️ Building **scalable SaaS products** and production-ready web applications  
-🤖 Implementing **AI automation** to improve development and operational speed by **~40%**
+🚀 Full Stack Developer @ **Alphanumeric Ideas Pvt. Ltd.**  
+🏗️ Building **production-grade SaaS platforms** handling 1000+ daily requests  
+🤖 Working on **AI-powered automation systems** & cloud-based architectures  
 
 ---
 
 ## 🧑‍💻 Professional Summary
-Full-Stack Developer with 2+ years of hands-on experience in designing, developing, and deploying modern web applications. Strong background in **frontend, backend, databases, cloud infrastructure**, and **AI integration**. Experienced in building scalable SaaS systems, authentication flows, analytics dashboards, and automation pipelines.
+Full-Stack Developer with 2+ years of experience building scalable SaaS platforms, AI-driven automation systems, and high-performance web applications.
+
+Skilled in **React, Next.js, FastAPI, and Google Cloud**, with hands-on experience in designing production systems, analytics dashboards, and backend services used in real-world applications.
+
+---
+
+## 🔥 Key Highlights
+- 🚀 Built AI-powered platforms handling **1000+ daily requests**
+- 📊 Developed analytics systems using **Google Ads API (GAQL)**
+- 🏗️ Worked on platforms managing **900+ daily leads**
+- ⚙️ Delivered multiple production releases with improved performance & stability
+- 🤖 Integrated **LLMs (Gemini AI, Ollama)** into backend systems
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
-- Next.js, React
+- React.js, Next.js
 - TypeScript, JavaScript
-- Tailwind CSS, 
-- Responsive UI & UX optimization
+- Tailwind CSS, GSAP, Framer Motion
 
 ### ⚙️ Backend
 - Node.js, Express.js
-- Python (Flask)
-- REST API development
-- Authentication & Authorization (JWT, Role-based access)
+- **FastAPI (Python)**
+- REST APIs, System Design
 
 ### 🗄️ Databases
 - MongoDB
-- SQL (MySQL / PostgreSQL)
-- Google Cloud Spanner
-- Firebase (Realtime DB / Firestore)
+- Firebase, Supabase
+- BigQuery, Google Cloud Spanner
 
 ### ☁️ Cloud & DevOps
 - Google Cloud Platform (GCP)
 - Cloud Run (Deployment & Scaling)
-- Firebase Hosting & Auth
-- FileZilla
-- Environment & production configuration
+- Firebase Hosting
+- CI/CD & Production Deployment
 
-### 🤖 AI & Automation
-- Gemini AI API Integration
-- AI-driven content & workflow automation
-- Process optimization reducing manual effort by **~40%**
+### 🤖 AI & APIs
+- Gemini AI, Ollama (LLM Integration)
+- Google Ads API (GAQL)
+- Shopify Admin API
+- Automation Pipelines
+
+---
+
+## 🚀 Featured Projects
+
+### 🌩️ CloudLens — Cloud Cost Intelligence Platform
+- SaaS platform to monitor **real-time GCP cloud spending**
+- Built with Next.js, Supabase, BigQuery
+- Provides project-level cost insights & analytics dashboards  
+
+---
+
+### 📈 ArtOfBoost.ai — AI Marketing Platform
+- AI-powered SaaS platform for ad automation & analytics  
+- Handles **1000+ daily requests** with real-time insights  
+- Built with Next.js, FastAPI, Firebase  
+
+---
+
+### 📍 LocationTrack — Real-Time GPS App
+- Live location tracking with real-time updates  
+- Built using React.js, Node.js, Firebase  
 
 ---
 
 ## 📚 Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- DBMS
-- Computer Networks
-
-### 🧠 Programming Languages
-- C++
-- Python
-- JavaScript
-
----
-
-## 💼 Current Role
-**Full-Stack Developer — Alphanumeric Ideas Pvt. Ltd.**  
-📍 Mohali, Chandigarh  
-🕒 Sept 2023 – Present
-
-**Responsibilities:**
-- Developing and maintaining **frontend & backend** features
-- Building SEO-optimized and scalable SaaS modules
-- Deploying applications on **Google Cloud**
-- Integrating AI tools for automation and productivity
-- Improving performance, UX, and system reliability
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- DBMS, OS, Computer Networks  
 
 ---
 
 ## 🎯 Career Focus
-- Building **real-world SaaS products**
-
+- Building **scalable SaaS platforms**
+- Backend systems & cloud architecture
+- AI-powered automation & real-world applications  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: 610490papu@gmail.com
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-link  
+- Email: 610490papu@gmail.com  
