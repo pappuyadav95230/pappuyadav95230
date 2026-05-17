@@ -3,7 +3,7 @@
 ## 🚀 Full-Stack Developer | 2+ Years Experience  
 **SaaS • AI Systems • Scalable Web Applications**
 
-🚀 Full Stack Developer @ **Alphanumeric Ideas Pvt. Ltd.**  
+🚀 Full Stack Developer @ **OCEANIEK TECHNOLOGIES.**  
 🏗️ Building **production-grade SaaS platforms** handling 1000+ daily requests  
 🤖 Working on **AI-powered automation systems** & cloud-based architectures  
 
